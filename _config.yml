@@ -7,10 +7,10 @@ first_name: Buttercup
 middle_name:
 last_name: 
 email:
-description: >
+description:
   normal person # the ">" symbol means to ignore newlines until "footer_text:"
   
-footer_text: > a
+footer_text:
   
 keywords: 
 
