@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://new-Sunset-shimmer.github.io/new-Sunset-shimmer//sitemap.xml
+Sitemap: https://new-Sunset-shimmer.github.io/sitemap.xml
