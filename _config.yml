@@ -7,8 +7,7 @@ first_name: Buttercup
 middle_name:
 last_name: 
 email:
-description:
-  normal person # the ">" symbol means to ignore newlines until "footer_text:"
+description: normal person # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text:
   
