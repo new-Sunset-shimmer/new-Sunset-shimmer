@@ -150,10 +150,7 @@ disqus_shortname: Buttercup # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: demonfusion
-    rss_url: https://paperswithcode.com/paper/demofusion-democratising-high-resolution
-  - name: mistralai finetuned
-    rss_url: https://twitter.com/MistralAI/status/1733150512395038967
+  
 
 # -----------------------------------------------------------------------------
 # Collections
