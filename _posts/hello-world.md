@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  a post with TikZJax
-date: 2023-12-12 22:25:00
+title:  Hello world
+date: 2023-12-16
 description: this is what included TikZ code could look like
 tags: formatting diagrams
-categories: sample-posts
+categories: simple-posts
 tikzjax: true
 ---
-This is an example post with TikZ code. TikZJax converts script tags (containing TikZ code) into SVGs.
+Hello wolds
 
 <script type="text/tikz">
 \begin{tikzpicture}
