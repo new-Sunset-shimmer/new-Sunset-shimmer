@@ -2,7 +2,7 @@
 layout: post
 title:  Hello world
 date: 2023-12-16
-description: this is what included TikZ code could look like
+description: Hello sunset
 tags: formatting diagrams
 categories: simple-posts
 tikzjax: true
