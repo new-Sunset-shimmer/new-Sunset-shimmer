@@ -152,6 +152,8 @@ disqus_shortname: Buttercup # put your disqus shortname
 external_sources:
   - name: demonfusion
     rss_url: https://paperswithcode.com/paper/demofusion-democratising-high-resolution
+  - name: mistralai finetuned
+    rss_url: https://twitter.com/MistralAI/status/1733150512395038967
 
 # -----------------------------------------------------------------------------
 # Collections
