@@ -257,8 +257,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['notag, implements, v2w'] # these tags will be displayed on the front page of your blog
-display_categories: ['simple-posts, implements'] # these categories will be displayed on the front page of your blog
+display_tags: ['notag', 'implements', 'v2w'] # these tags will be displayed on the front page of your blog
+display_categories: ['simple-posts', 'implements'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
