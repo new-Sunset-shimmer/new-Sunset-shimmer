@@ -1,0 +1,12 @@
+---
+layout: post
+title: v2w 구현 3
+date: 2023-12-27 11:12:00-0400
+description: v2w
+tags: implements v2w 
+categories: implements
+related_posts: false
+---
+모든 구현이 끝났다. 
+단어 비쥬얼화도 끝났으며 다른 모델에 embedding layer로서 들어갈수있게 만들어놨다.
+단 문제점은 이게 완벽하게 정확하다는걸 확인하기 위해서는 좀더 좋은 데이터셋이 필요할것같다.
